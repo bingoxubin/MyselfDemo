@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SelfDemo_01_LinuxShell</artifactId>
+    <artifactId>SelfDemo_04_SpringCloud</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
